@@ -13,8 +13,9 @@ const Header = () => {
         </div>
 
         <div className="flex mx-[30px]">
-            <button className="mx-[10px] w-[100px] h-[40px] bg-white rounded text-gray-800 font-semibold flex justify-center items-center cursor-pointer hover:scale-75 ease-in-out">Sign in</button>
-            <button className="mx-[10px] w-[130px] h-[40px] bg-transparent border-white rounded text-white font-semibold flex justify-center items-center cursor-pointer hover:scale-75 ease-in-out">Get Started</button>
+            <button className="mx-[10px] w-[100px] h-[40px] bg-white rounded text-gray-800 font-semibold flex justify-center items-center cursor-pointer hover:scale-75 ease-in-out duration-300">Sign in</button>
+            
+            <button className="mx-[10px] w-[130px] h-[40px] bg-transparent border-white rounded text-white font-semibold flex justify-center items-center cursor-pointer hover:scale-75 ease-in-out duration-300">Get Started</button>
         </div>
         
     </div>
